@@ -8,10 +8,12 @@ python app.py
 
 ## 包环境
 
-+ flask
-+ pytorch
-+ json
++ flask 2.0.2
++ pytorch 1.7.0+cuda10.1
 
+## 模型路径
+
+bert.pt
 
 ## 模型链接
 
