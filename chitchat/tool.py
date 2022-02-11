@@ -140,7 +140,7 @@ random.seed(args.seed)
 
 
 def inference(text):
-    begin = time.time()
+    # begin = time.time()
     # dataset = test_data(args)
     # predictions = []
     # for instance in tqdm(dataset, mininterval=1):
